@@ -8,3 +8,4 @@ pydmd\.egg-info/
 .idea/*
 
 tutorials/\.ipynb_checkpoints/
+uv.lock
